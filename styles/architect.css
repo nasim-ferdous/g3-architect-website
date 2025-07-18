@@ -209,6 +209,11 @@ main>section {
 .spononsor-companies img{
     filter:grayscale(100%);
 }
+/* footer section styles */
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
 
 /* responsive media query for banner */
 @media screen and (max-width:576px) {
